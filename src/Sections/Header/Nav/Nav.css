@@ -1,0 +1,21 @@
+nav {
+  display: flex;
+  padding: 0 25rem 0 25rem;
+  justify-content: space-between;
+  position: fixed;
+
+  width: 100%;
+}
+
+nav,
+a {
+  color: var(--heading-color);
+  text-decoration: none;
+  font-size: 22px;
+  transition: 0.2s;
+}
+
+nav,
+a:hover {
+  color: white;
+}
