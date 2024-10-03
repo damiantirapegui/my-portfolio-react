@@ -1,0 +1,16 @@
+.description-container {
+  height: auto;
+  width: 100%;
+  margin: 50px;
+}
+
+.article-flexbox {
+  width: 40%;
+  padding: 100px;
+  border: 1px solid red;
+  border-radius: 4px;
+}
+
+.description-text {
+  color: white;
+}

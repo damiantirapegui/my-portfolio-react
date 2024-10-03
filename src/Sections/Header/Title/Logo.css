@@ -15,7 +15,7 @@
 }
 
 .logo-contatiner,
-h3::after {
+.logo::after {
   content: "Tirapegui";
   color: white;
   font-size: 21px;
