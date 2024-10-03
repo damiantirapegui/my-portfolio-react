@@ -1,5 +1,7 @@
 import { Description } from "./description/description";
 import { ProfileImage } from "./profile-image/ProfileImage";
+import { Skills } from "./Skills/Skills";
+import "../../index.css";
 
 export function Main() {
   return (
@@ -7,6 +9,7 @@ export function Main() {
       <main>
         <ProfileImage />
         <Description />
+        <Skills />
       </main>
     </>
   );
