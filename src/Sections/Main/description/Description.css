@@ -13,4 +13,7 @@
 
 .description-text {
   color: white;
+  font-size: 18px;
+  word-spacing: 6px;
+  line-height: 2rem;
 }
