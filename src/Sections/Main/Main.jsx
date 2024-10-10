@@ -2,6 +2,7 @@ import { Description } from "./description/description";
 import { ProfileImage } from "./profile-image/ProfileImage";
 import { Skills } from "./Skills/Skills";
 import "../../index.css";
+import { Github } from "./Github/Github";
 
 export function Main() {
   return (
@@ -10,6 +11,7 @@ export function Main() {
         <ProfileImage />
         <Description />
         <Skills />
+        <Github />
       </main>
     </>
   );
